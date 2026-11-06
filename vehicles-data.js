@@ -1,0 +1,8 @@
+// DEMO ONLY: Replace all sample details, prices, terms, images and WhatsApp number.
+const RENTAL_WHATSAPP = '910000000000'; // India: 91 + 10-digit number, digits only
+const vehicles = [
+{id:'innova',name:'Toyota Innova Crysta',category:'SUV',price:3500,seats:'7 seats',fuel:'Diesel',image:'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?auto=format&fit=crop&w=1200&q=85',conditions:['Minimum rental: 1 day (demo)','Deposit: ₹5,000 (demo)','Fuel: customer responsibility (confirm)','Valid driving licence required','Extra kilometre charges may apply']},
+{id:'swift',name:'Maruti Suzuki Swift',category:'Hatchback',price:1800,seats:'5 seats',fuel:'Petrol',image:'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=85',conditions:['Minimum rental: 1 day (demo)','Deposit: confirm with owner','Fuel: customer responsibility (confirm)','Valid driving licence required']},
+{id:'sedan',name:'Premium Sedan',category:'Sedan',price:2500,seats:'5 seats',fuel:'Petrol / Diesel',image:'https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=85',conditions:['Minimum rental: 1 day (demo)','Deposit: confirm with owner','Fuel and kilometre policy: confirm','Valid driving licence required']},
+{id:'traveller',name:'Tempo Traveller',category:'Van',price:5500,seats:'12–17 seats',fuel:'Diesel',image:'https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1200&q=85',conditions:['Price depends on route and duration','Driver and fuel inclusion must be confirmed','Advance booking recommended','Confirm kilometre limits and allowances']}
+];
